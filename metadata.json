@@ -1,0 +1,5 @@
+{
+  "name": "microproject caption generator 1",
+  "description": "An AI-powered application that extracts text from images and generates creative captions using the Gemini API. Simply upload an image to get started.",
+  "requestFramePermissions": []
+}
